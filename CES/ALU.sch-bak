@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 8268 11693 portrait
 encoding utf-8
-Sheet 2 11
+Sheet 2 13
 Title ""
 Date ""
 Rev ""
@@ -1193,14 +1193,6 @@ Text GLabel 5150 7900 0    50   Input ~ 0
 SS13
 Wire Wire Line
 	5150 7900 5550 7900
-Text GLabel 5150 8200 0    50   Input ~ 0
-SS14
-Wire Wire Line
-	5150 8200 5550 8200
-Text GLabel 5150 8500 0    50   Input ~ 0
-SS15
-Wire Wire Line
-	5150 8500 5550 8500
 Text GLabel 5150 7500 0    50   Input ~ 0
 VDB12
 Wire Wire Line
@@ -1209,14 +1201,6 @@ Text GLabel 5150 7800 0    50   Input ~ 0
 VDB13
 Wire Wire Line
 	5150 7800 5550 7800
-Text GLabel 5150 8100 0    50   Input ~ 0
-VDB14
-Wire Wire Line
-	5150 8100 5550 8100
-Text GLabel 5150 8400 0    50   Input ~ 0
-VDB15
-Wire Wire Line
-	5150 8400 5550 8400
 $Comp
 L power:GND #PWR?
 U 1 1 61A1FD7D
@@ -1276,14 +1260,6 @@ Text GLabel 6700 7800 2    50   Output ~ 0
 SME13
 Wire Wire Line
 	6550 7800 6700 7800
-Text GLabel 6700 8100 2    50   Output ~ 0
-SME14
-Wire Wire Line
-	6550 8100 6700 8100
-Text GLabel 6700 8400 2    50   Output ~ 0
-SME15
-Wire Wire Line
-	6550 8400 6700 8400
 Wire Wire Line
 	4000 8900 4000 8750
 Wire Wire Line
@@ -1484,4 +1460,26 @@ $EndComp
 Connection ~ 1500 9650
 Wire Wire Line
 	1500 9650 1250 9650
+NoConn ~ 6550 8400
+NoConn ~ 6550 8100
+Wire Wire Line
+	5400 8800 5400 8500
+Connection ~ 5400 8800
+Wire Wire Line
+	5400 8100 5550 8100
+Connection ~ 5400 8200
+Wire Wire Line
+	5400 8200 5550 8200
+Wire Wire Line
+	5400 8200 5400 8100
+Connection ~ 5400 8400
+Wire Wire Line
+	5400 8400 5550 8400
+Wire Wire Line
+	5400 8400 5400 8200
+Connection ~ 5400 8500
+Wire Wire Line
+	5400 8500 5550 8500
+Wire Wire Line
+	5400 8500 5400 8400
 $EndSCHEMATC
