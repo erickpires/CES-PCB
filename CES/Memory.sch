@@ -4,11 +4,11 @@ EELAYER END
 $Descr A4 8268 11693 portrait
 encoding utf-8
 Sheet 6 13
-Title ""
-Date ""
-Rev ""
-Comp ""
-Comment1 ""
+Title "CES"
+Date "2021-04-24"
+Rev "1"
+Comp "github.com/erickpires/"
+Comment1 "Copyright 2021 Erick Pires"
 Comment2 ""
 Comment3 ""
 Comment4 ""
