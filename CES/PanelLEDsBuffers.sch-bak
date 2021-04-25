@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 12 15
+Sheet 12 16
 Title "CES"
 Date "2021-04-24"
 Rev "1"
@@ -68,15 +68,15 @@ Wire Wire Line
 $Comp
 L Connector:Conn_01x16_Male J?
 U 1 1 60C2ED9D
-P 9250 3350
+P 9250 3250
 AR Path="/60832DB9/60C2ED9D" Ref="J?"  Part="1" 
 AR Path="/60832DB9/60BC5CB5/60C2ED9D" Ref="J?"  Part="1" 
-F 0 "J?" H 9350 2400 50  0000 R CNN
-F 1 "PanelEnd" H 9450 4150 50  0000 R CNN
-F 2 "" H 9250 3350 50  0001 C CNN
-F 3 "~" H 9250 3350 50  0001 C CNN
-	1    9250 3350
-	-1   0    0    1   
+F 0 "J?" H 9350 2300 50  0000 R CNN
+F 1 "PanelEnd" H 9450 4050 50  0000 R CNN
+F 2 "" H 9250 3250 50  0001 C CNN
+F 3 "~" H 9250 3250 50  0001 C CNN
+	1    9250 3250
+	-1   0    0    -1  
 $EndComp
 Wire Wire Line
 	8250 2900 8600 2900
@@ -237,15 +237,15 @@ Wire Wire Line
 $Comp
 L Connector:Conn_01x16_Male J?
 U 1 1 60C2EDF1
-P 6750 3350
+P 6750 3250
 AR Path="/60832DB9/60C2EDF1" Ref="J?"  Part="1" 
 AR Path="/60832DB9/60BC5CB5/60C2EDF1" Ref="J?"  Part="1" 
-F 0 "J?" H 6850 2400 50  0000 R CNN
-F 1 "PanelMem" H 6950 4150 50  0000 R CNN
-F 2 "" H 6750 3350 50  0001 C CNN
-F 3 "~" H 6750 3350 50  0001 C CNN
-	1    6750 3350
-	-1   0    0    1   
+F 0 "J?" H 6850 2300 50  0000 R CNN
+F 1 "PanelMem" H 6950 4050 50  0000 R CNN
+F 2 "" H 6750 3250 50  0001 C CNN
+F 3 "~" H 6750 3250 50  0001 C CNN
+	1    6750 3250
+	-1   0    0    -1  
 $EndComp
 Wire Wire Line
 	5750 2900 6100 2900
@@ -347,8 +347,6 @@ Wire Wire Line
 	4950 1150 5150 1150
 Text GLabel 4950 1150 0    50   Input ~ 0
 VDB1
-Text Notes 9000 4400 0    50   ~ 0
-TODO: Find a \nbetter connector
 Wire Wire Line
 	4950 800  5150 800 
 Text GLabel 4950 800  0    50   Input ~ 0
@@ -412,15 +410,15 @@ Wire Wire Line
 $Comp
 L Connector:Conn_01x16_Male J?
 U 1 1 60C2EE48
-P 4450 3350
+P 4450 3250
 AR Path="/60832DB9/60C2EE48" Ref="J?"  Part="1" 
 AR Path="/60832DB9/60BC5CB5/60C2EE48" Ref="J?"  Part="1" 
-F 0 "J?" H 4550 2400 50  0000 R CNN
-F 1 "PanelRT" H 4650 4150 50  0000 R CNN
-F 2 "" H 4450 3350 50  0001 C CNN
-F 3 "~" H 4450 3350 50  0001 C CNN
-	1    4450 3350
-	-1   0    0    1   
+F 0 "J?" H 4550 2300 50  0000 R CNN
+F 1 "PanelRT" H 4650 4050 50  0000 R CNN
+F 2 "" H 4450 3250 50  0001 C CNN
+F 3 "~" H 4450 3250 50  0001 C CNN
+	1    4450 3250
+	-1   0    0    -1  
 $EndComp
 Wire Wire Line
 	3450 2900 3800 2900

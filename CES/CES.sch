@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 15
+Sheet 1 16
 Title "CES"
 Date "2021-04-24"
 Rev "1"
@@ -3310,5 +3310,11 @@ S 1200 6000 2350 1350
 U 611BF25E
 F0 "Clock" 50
 F1 "Clock.sch" 50
+$EndSheet
+$Sheet
+S 4050 6000 2350 1350
+U 60958E9E
+F0 "ExpansionConnectors" 50
+F1 "ExpansionConnectors.sch" 50
 $EndSheet
 $EndSCHEMATC
