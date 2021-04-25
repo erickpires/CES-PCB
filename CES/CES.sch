@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 13
+Sheet 1 15
 Title "CES"
 Date "2021-04-24"
 Rev "1"
@@ -3305,4 +3305,10 @@ Wire Wire Line
 Wire Wire Line
 	10750 2200 10750 2150
 Connection ~ 10350 2200
+$Sheet
+S 1200 6000 2350 1350
+U 611BF25E
+F0 "Clock" 50
+F1 "Clock.sch" 50
+$EndSheet
 $EndSCHEMATC
