@@ -14,19 +14,6 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L 74xx:74LS173 U?
-U 1 1 61BEF6BF
-P 2800 8650
-AR Path="/60832B49/61BEF6BF" Ref="U?"  Part="1" 
-AR Path="/60832B49/61BE6757/61BEF6BF" Ref="U?"  Part="1" 
-F 0 "U?" H 3050 9450 50  0000 C CNN
-F 1 "RT4" H 2800 8650 50  0000 C CNN
-F 2 "" H 2800 8650 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS173" H 2800 8650 50  0001 C CNN
-	1    2800 8650
-	1    0    0    -1  
-$EndComp
-$Comp
 L 74xx:74HC244 U?
 U 1 1 61C140C4
 P 5600 2450
@@ -35,19 +22,6 @@ F 1 "BT1" H 5600 2150 50  0000 C CNN
 F 2 "" H 5600 2450 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT244.pdf" H 5600 2450 50  0001 C CNN
 	1    5600 2450
-	1    0    0    -1  
-$EndComp
-$Comp
-L 74xx:74LS173 U?
-U 1 1 61BEF6AD
-P 2800 1600
-AR Path="/60832B49/61BEF6AD" Ref="U?"  Part="1" 
-AR Path="/60832B49/61BE6757/61BEF6AD" Ref="U?"  Part="1" 
-F 0 "U?" H 3050 2350 50  0000 C CNN
-F 1 "RT1" H 2800 1600 50  0000 C CNN
-F 2 "" H 2800 1600 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS173" H 2800 1600 50  0001 C CNN
-	1    2800 1600
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -145,19 +119,6 @@ F 1 "BT2" H 5600 6850 50  0000 C CNN
 F 2 "" H 5600 7150 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT244.pdf" H 5600 7150 50  0001 C CNN
 	1    5600 7150
-	1    0    0    -1  
-$EndComp
-$Comp
-L 74xx:74LS173 U?
-U 1 1 61BEF6B9
-P 2800 6300
-AR Path="/60832B49/61BEF6B9" Ref="U?"  Part="1" 
-AR Path="/60832B49/61BE6757/61BEF6B9" Ref="U?"  Part="1" 
-F 0 "U?" H 3050 7050 50  0000 C CNN
-F 1 "RT3" H 2800 6300 50  0000 C CNN
-F 2 "" H 2800 6300 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS173" H 2800 6300 50  0001 C CNN
-	1    2800 6300
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
@@ -428,19 +389,6 @@ F 3 "" H 2800 3050 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	4000 2450 4000 3450
-$Comp
-L 74xx:74LS173 U?
-U 1 1 61BEF6B3
-P 2800 3950
-AR Path="/60832B49/61BEF6B3" Ref="U?"  Part="1" 
-AR Path="/60832B49/61BE6757/61BEF6B3" Ref="U?"  Part="1" 
-F 0 "U?" H 3050 4700 50  0000 C CNN
-F 1 "RT2" H 2800 3950 50  0000 C CNN
-F 2 "" H 2800 3950 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS173" H 2800 3950 50  0001 C CNN
-	1    2800 3950
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	3300 3350 3900 3350
 Wire Wire Line
@@ -885,4 +833,48 @@ $EndComp
 Connection ~ 1750 10250
 Wire Wire Line
 	1750 10250 1600 10250
+$Comp
+L CES:74HC173 U?
+U 1 1 60919F92
+P 2800 1600
+F 0 "U?" H 3050 2350 50  0000 C CNN
+F 1 "RT1" H 2800 1600 50  0000 C CNN
+F 2 "" H 2800 1600 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/cd74HC173" H 2800 1600 50  0001 C CNN
+	1    2800 1600
+	1    0    0    -1  
+$EndComp
+$Comp
+L CES:74HC173 U?
+U 1 1 6091ACBA
+P 2800 3950
+F 0 "U?" H 3050 4700 50  0000 C CNN
+F 1 "RT2" H 2800 3950 50  0000 C CNN
+F 2 "" H 2800 3950 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/cd74HC173" H 2800 3950 50  0001 C CNN
+	1    2800 3950
+	1    0    0    -1  
+$EndComp
+$Comp
+L CES:74HC173 U?
+U 1 1 6091B3BD
+P 2800 6300
+F 0 "U?" H 3050 7050 50  0000 C CNN
+F 1 "RT3" H 2800 6300 50  0000 C CNN
+F 2 "" H 2800 6300 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/cd74HC173" H 2800 6300 50  0001 C CNN
+	1    2800 6300
+	1    0    0    -1  
+$EndComp
+$Comp
+L CES:74HC173 U?
+U 1 1 6091B937
+P 2800 8650
+F 0 "U?" H 3050 9400 50  0000 C CNN
+F 1 "RT4" H 2800 8650 50  0000 C CNN
+F 2 "" H 2800 8650 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/cd74HC173" H 2800 8650 50  0001 C CNN
+	1    2800 8650
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

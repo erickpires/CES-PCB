@@ -13,50 +13,6 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-$Comp
-L 74xx:74LS173 U?
-U 1 1 61BF54A4
-P 4150 1650
-F 0 "U?" H 4400 2400 50  0000 C CNN
-F 1 "RD1" H 4150 1650 50  0000 C CNN
-F 2 "" H 4150 1650 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS173" H 4150 1650 50  0001 C CNN
-	1    4150 1650
-	1    0    0    -1  
-$EndComp
-$Comp
-L 74xx:74LS173 U?
-U 1 1 61BF54AA
-P 4150 4000
-F 0 "U?" H 4400 4750 50  0000 C CNN
-F 1 "RD2" H 4150 4000 50  0000 C CNN
-F 2 "" H 4150 4000 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS173" H 4150 4000 50  0001 C CNN
-	1    4150 4000
-	1    0    0    -1  
-$EndComp
-$Comp
-L 74xx:74LS173 U?
-U 1 1 61BF54B0
-P 4150 6350
-F 0 "U?" H 4400 7100 50  0000 C CNN
-F 1 "RD3" H 4150 6350 50  0000 C CNN
-F 2 "" H 4150 6350 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS173" H 4150 6350 50  0001 C CNN
-	1    4150 6350
-	1    0    0    -1  
-$EndComp
-$Comp
-L 74xx:74LS173 U?
-U 1 1 61BF54B6
-P 4150 8700
-F 0 "U?" H 4400 9500 50  0000 C CNN
-F 1 "RD4" H 4150 8700 50  0000 C CNN
-F 2 "" H 4150 8700 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS173" H 4150 8700 50  0001 C CNN
-	1    4150 8700
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	4650 1050 5850 1050
 Text GLabel 5850 1050 2    50   Output ~ 0
@@ -541,4 +497,48 @@ $EndComp
 Connection ~ 1500 10400
 Wire Wire Line
 	1500 10400 1350 10400
+$Comp
+L CES:74HC173 U?
+U 1 1 60908DFE
+P 4150 1650
+F 0 "U?" H 4400 2400 50  0000 C CNN
+F 1 "RD1" H 4150 1650 50  0000 C CNN
+F 2 "" H 4150 1650 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/cd74HC173" H 4150 1650 50  0001 C CNN
+	1    4150 1650
+	1    0    0    -1  
+$EndComp
+$Comp
+L CES:74HC173 U?
+U 1 1 6090AD57
+P 4150 4000
+F 0 "U?" H 4400 4750 50  0000 C CNN
+F 1 "RD2" H 4150 4000 50  0000 C CNN
+F 2 "" H 4150 4000 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/cd74HC173" H 4150 4000 50  0001 C CNN
+	1    4150 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L CES:74HC173 U?
+U 1 1 6090B5D9
+P 4150 6350
+F 0 "U?" H 4400 7100 50  0000 C CNN
+F 1 "RD3" H 4150 6350 50  0000 C CNN
+F 2 "" H 4150 6350 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/cd74HC173" H 4150 6350 50  0001 C CNN
+	1    4150 6350
+	1    0    0    -1  
+$EndComp
+$Comp
+L CES:74HC173 U?
+U 1 1 6090C04C
+P 4150 8700
+F 0 "U?" H 4400 9450 50  0000 C CNN
+F 1 "RD4" H 4150 8700 50  0000 C CNN
+F 2 "" H 4150 8700 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/cd74HC173" H 4150 8700 50  0001 C CNN
+	1    4150 8700
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

@@ -1,3 +1,39 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 74HC08
+D Quad And2
+K TTL and2
+F http://www.ti.com/lit/gpn/sn74HC08
+$ENDCMP
+#
+$CMP 74HC10
+D Triple 3-input NAND
+K TTL Nand3
+F http://www.ti.com/lit/gpn/sn74HC10
+$ENDCMP
+#
+$CMP 74HC173
+D 4-bit D-type Register, 3 state out
+K TTL REG REG4 3State DFF
+F http://www.ti.com/lit/gpn/cd74HC173
+$ENDCMP
+#
+$CMP 74HC257
+D Quad 2 to 1 Multiplexer
+K TTL MUX MUX2
+F http://www.ti.com/lit/gpn/sn74HC257
+$ENDCMP
+#
+$CMP 74HC283
+D 4-bit full Adder
+K TTL ADD Arith ALU
+F http://www.ti.com/lit/gpn/cd74HC283
+$ENDCMP
+#
+$CMP 74HC30
+D 8-input NAND
+K TTL Nand8
+F http://www.ti.com/lit/gpn/sn74HC30
+$ENDCMP
+#
 #End Doc Library

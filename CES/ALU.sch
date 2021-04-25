@@ -190,94 +190,6 @@ F 3 "http://www.ti.com/lit/gpn/sn74hc02" H 2150 10300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L 74xx:74LS283 U?
-U 1 1 617654FA
-P 3450 1400
-F 0 "U?" H 3650 2050 50  0000 C CNN
-F 1 "SM1" H 3450 1400 50  0000 C CNN
-F 2 "" H 3450 1400 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS283" H 3450 1400 50  0001 C CNN
-	1    3450 1400
-	1    0    0    -1  
-$EndComp
-$Comp
-L 74xx:74LS283 U?
-U 1 1 61766086
-P 3450 5200
-F 0 "U?" H 3700 5900 50  0000 C CNN
-F 1 "SM3" H 3450 5200 50  0000 C CNN
-F 2 "" H 3450 5200 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS283" H 3450 5200 50  0001 C CNN
-	1    3450 5200
-	1    0    0    -1  
-$EndComp
-$Comp
-L 74xx:74LS283 U?
-U 1 1 617670F7
-P 3450 3300
-F 0 "U?" H 3700 3950 50  0000 C CNN
-F 1 "SM2" H 3450 3300 50  0000 C CNN
-F 2 "" H 3450 3300 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS283" H 3450 3300 50  0001 C CNN
-	1    3450 3300
-	1    0    0    -1  
-$EndComp
-$Comp
-L 74xx:74LS283 U?
-U 1 1 617685A6
-P 3450 7150
-F 0 "U?" H 3700 7800 50  0000 C CNN
-F 1 "SM4" H 3450 7150 50  0000 C CNN
-F 2 "" H 3450 7150 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS283" H 3450 7150 50  0001 C CNN
-	1    3450 7150
-	1    0    0    -1  
-$EndComp
-$Comp
-L 74xx:74LS257 U?
-U 1 1 6176964F
-P 6050 1500
-F 0 "U?" H 6300 2250 50  0000 C CNN
-F 1 "ME1" H 6050 1500 50  0000 C CNN
-F 2 "" H 6050 1500 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS257" H 6050 1500 50  0001 C CNN
-	1    6050 1500
-	1    0    0    -1  
-$EndComp
-$Comp
-L 74xx:74LS257 U?
-U 1 1 6176B14B
-P 6050 3700
-F 0 "U?" H 6300 4450 50  0000 C CNN
-F 1 "ME2" H 6050 3700 50  0000 C CNN
-F 2 "" H 6050 3700 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS257" H 6050 3700 50  0001 C CNN
-	1    6050 3700
-	1    0    0    -1  
-$EndComp
-$Comp
-L 74xx:74LS257 U?
-U 1 1 6176CCA9
-P 6050 5900
-F 0 "U?" H 6300 6650 50  0000 C CNN
-F 1 "ME3" H 6050 5900 50  0000 C CNN
-F 2 "" H 6050 5900 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS257" H 6050 5900 50  0001 C CNN
-	1    6050 5900
-	1    0    0    -1  
-$EndComp
-$Comp
-L 74xx:74LS257 U?
-U 1 1 6176DC0B
-P 6050 8100
-F 0 "U?" H 6300 8850 50  0000 C CNN
-F 1 "ME4" H 6050 8100 50  0000 C CNN
-F 2 "" H 6050 8100 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS257" H 6050 8100 50  0001 C CNN
-	1    6050 8100
-	1    0    0    -1  
-$EndComp
-$Comp
 L Device:C C?
 U 1 1 6178D173
 P 700 9050
@@ -1482,4 +1394,92 @@ Wire Wire Line
 	5400 8500 5550 8500
 Wire Wire Line
 	5400 8500 5400 8400
+$Comp
+L CES:74HC257 U?
+U 1 1 6094D17A
+P 6050 1500
+F 0 "U?" H 6250 2300 50  0000 C CNN
+F 1 "ME1" H 6050 1500 50  0000 C CNN
+F 2 "" H 6050 1500 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74HC257" H 6050 1500 50  0001 C CNN
+	1    6050 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L CES:74HC257 U?
+U 1 1 6094DE29
+P 6050 3700
+F 0 "U?" H 6250 4500 50  0000 C CNN
+F 1 "ME2" H 6050 3700 50  0000 C CNN
+F 2 "" H 6050 3700 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74HC257" H 6050 3700 50  0001 C CNN
+	1    6050 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L CES:74HC257 U?
+U 1 1 6094E47A
+P 6050 5900
+F 0 "U?" H 6250 6700 50  0000 C CNN
+F 1 "ME3" H 6050 5900 50  0000 C CNN
+F 2 "" H 6050 5900 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74HC257" H 6050 5900 50  0001 C CNN
+	1    6050 5900
+	1    0    0    -1  
+$EndComp
+$Comp
+L CES:74HC257 U?
+U 1 1 6094ED6B
+P 6050 8100
+F 0 "U?" H 6250 8900 50  0000 C CNN
+F 1 "ME4" H 6050 8100 50  0000 C CNN
+F 2 "" H 6050 8100 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74HC257" H 6050 8100 50  0001 C CNN
+	1    6050 8100
+	1    0    0    -1  
+$EndComp
+$Comp
+L CES:74HC283 U?
+U 1 1 6095472F
+P 3450 1400
+F 0 "U?" H 3650 2050 50  0000 C CNN
+F 1 "SM1" H 3450 1400 50  0000 C CNN
+F 2 "" H 3450 1400 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/cd74HC283" H 3450 1400 50  0001 C CNN
+	1    3450 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L CES:74HC283 U?
+U 1 1 609558CF
+P 3450 3300
+F 0 "U?" H 3650 3950 50  0000 C CNN
+F 1 "SM2" H 3450 3300 50  0000 C CNN
+F 2 "" H 3450 3300 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/cd74HC283" H 3450 3300 50  0001 C CNN
+	1    3450 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L CES:74HC283 U?
+U 1 1 6095611B
+P 3450 5200
+F 0 "U?" H 3650 5850 50  0000 C CNN
+F 1 "SM3" H 3450 5200 50  0000 C CNN
+F 2 "" H 3450 5200 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/cd74HC283" H 3450 5200 50  0001 C CNN
+	1    3450 5200
+	1    0    0    -1  
+$EndComp
+$Comp
+L CES:74HC283 U?
+U 1 1 609567A2
+P 3450 7150
+F 0 "U?" H 3650 7800 50  0000 C CNN
+F 1 "SM4" H 3450 7150 50  0000 C CNN
+F 2 "" H 3450 7150 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/cd74HC283" H 3450 7150 50  0001 C CNN
+	1    3450 7150
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
