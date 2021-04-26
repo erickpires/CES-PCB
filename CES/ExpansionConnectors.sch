@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 17 17
+Sheet 17 18
 Title ""
 Date ""
 Rev ""
@@ -235,7 +235,7 @@ Text GLabel 6500 1400 0    50   Input ~ 0
 Text GLabel 6500 1600 0    50   Input ~ 0
 ~EscMem
 Text GLabel 7000 1500 0    50   Input ~ 0
-~HabSaiRAM
+~HabSelRAM
 $Comp
 L power:VCC #PWR01701
 U 1 1 609B015B

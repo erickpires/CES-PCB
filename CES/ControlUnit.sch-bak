@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 8268 11693 portrait
 encoding utf-8
-Sheet 8 17
+Sheet 8 18
 Title "CES"
 Date "2021-04-24"
 Rev "1"
@@ -714,8 +714,6 @@ Wire Wire Line
 	3800 4850 4400 4850
 Wire Wire Line
 	3800 5050 4400 5050
-Text GLabel 3800 5250 0    50   Input ~ 0
-EntRlg
 Text GLabel 3800 5450 0    50   Input ~ 0
 ~Rlg
 Wire Wire Line
@@ -1202,6 +1200,8 @@ F 3 "" H 1900 10650 50  0001 C CNN
 	1    1900 10650
 	1    0    0    -1  
 $EndComp
+Text GLabel 3800 5250 0    50   Input ~ 0
+EntRlg
 Wire Wire Line
 	4400 5250 3800 5250
 $EndSCHEMATC

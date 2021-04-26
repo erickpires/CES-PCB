@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 9 17
+Sheet 9 18
 Title ""
 Date ""
 Rev ""
@@ -450,9 +450,9 @@ Wire Wire Line
 Wire Wire Line
 	6000 2750 6650 2750
 Text GLabel 6650 2550 2    50   Output ~ 0
-I0
+I1
 Text GLabel 6650 2750 2    50   Output ~ 0
-~I0
+~I1
 Wire Wire Line
 	7900 1250 8150 1250
 Text GLabel 7900 1250 0    50   Input ~ 0
@@ -533,10 +533,6 @@ Wire Wire Line
 	8950 2250 8950 2350
 Text GLabel 9900 2750 2    50   Output ~ 0
 ~Partiu
-Text GLabel 9900 2550 2    50   Output ~ 0
-Partiu
-Wire Wire Line
-	9250 2550 9900 2550
 Wire Wire Line
 	9250 2750 9900 2750
 Text GLabel 7900 2750 0    50   Input ~ 0
@@ -653,4 +649,5 @@ Wire Wire Line
 	3050 4550 3500 4550
 Wire Wire Line
 	3050 4650 3500 4650
+NoConn ~ 9250 2550
 $EndSCHEMATC

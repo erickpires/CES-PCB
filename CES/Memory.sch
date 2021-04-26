@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 8268 11693 portrait
 encoding utf-8
-Sheet 10 17
+Sheet 11 18
 Title "CES"
 Date "2021-04-24"
 Rev "1"
@@ -772,7 +772,7 @@ Connection ~ 3250 7550
 Text GLabel 3650 4850 0    50   Input ~ 0
 ~EscMem
 Text GLabel 3650 5000 0    50   Input ~ 0
-~SelRAM
+~SelRam
 Text GLabel 3650 5150 0    50   Input ~ 0
 ~HabSelRAM
 Wire Wire Line
@@ -792,7 +792,7 @@ Wire Wire Line
 Text GLabel 3650 9500 0    50   Input ~ 0
 ~EscMem
 Text GLabel 3650 9650 0    50   Input ~ 0
-~SelRAM
+~SelRam
 Text GLabel 3650 9800 0    50   Input ~ 0
 ~HabSelRAM
 Wire Wire Line

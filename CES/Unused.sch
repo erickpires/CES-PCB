@@ -1,0 +1,347 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 18 18
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L 74xx:74HC00 U?
+U 3 1 61014B52
+P 1500 1150
+AR Path="/60832DB9/6125152F/61014B52" Ref="U?"  Part="3" 
+AR Path="/610111E8/61014B52" Ref="U1501"  Part="3" 
+F 0 "U1501" H 1500 1475 50  0000 C CNN
+F 1 "74HC00" H 1500 1384 50  0000 C CNN
+F 2 "" H 1500 1150 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74hc00" H 1500 1150 50  0001 C CNN
+	3    1500 1150
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74xx:74HC00 U?
+U 4 1 61014B58
+P 1500 1750
+AR Path="/60832DB9/6125152F/61014B58" Ref="U?"  Part="4" 
+AR Path="/610111E8/61014B58" Ref="U1501"  Part="4" 
+F 0 "U1501" H 1500 2075 50  0000 C CNN
+F 1 "74HC00" H 1500 1984 50  0000 C CNN
+F 2 "" H 1500 1750 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74hc00" H 1500 1750 50  0001 C CNN
+	4    1500 1750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1200 1050 1100 1050
+Wire Wire Line
+	1100 1050 1100 1250
+Wire Wire Line
+	1100 1850 1200 1850
+Wire Wire Line
+	1200 1650 1100 1650
+Connection ~ 1100 1650
+Wire Wire Line
+	1100 1650 1100 1850
+Wire Wire Line
+	1200 1250 1100 1250
+Connection ~ 1100 1250
+Wire Wire Line
+	1100 1250 1100 1650
+$Comp
+L power:GND #PWR0103
+U 1 1 6101549C
+P 1100 1950
+F 0 "#PWR0103" H 1100 1700 50  0001 C CNN
+F 1 "GND" H 1105 1777 50  0000 C CNN
+F 2 "" H 1100 1950 50  0001 C CNN
+F 3 "" H 1100 1950 50  0001 C CNN
+	1    1100 1950
+	1    0    0    -1  
+$EndComp
+NoConn ~ 1800 1750
+NoConn ~ 1800 1150
+Wire Wire Line
+	1100 1850 1100 1950
+Connection ~ 1100 1850
+$Comp
+L 74xx:74HC04 U?
+U 3 1 6101E66F
+P 1500 2800
+AR Path="/611BF25E/6101E66F" Ref="U?"  Part="3" 
+AR Path="/610111E8/6101E66F" Ref="U1601"  Part="3" 
+F 0 "U1601" H 1500 3117 50  0000 C CNN
+F 1 "74HC04" H 1500 3026 50  0000 C CNN
+F 2 "" H 1500 2800 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 1500 2800 50  0001 C CNN
+	3    1500 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74xx:74HC04 U?
+U 5 1 6101E675
+P 1500 3700
+AR Path="/611BF25E/6101E675" Ref="U?"  Part="5" 
+AR Path="/610111E8/6101E675" Ref="U1601"  Part="5" 
+F 0 "U1601" H 1500 4017 50  0000 C CNN
+F 1 "74HC04" H 1500 3926 50  0000 C CNN
+F 2 "" H 1500 3700 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 1500 3700 50  0001 C CNN
+	5    1500 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74xx:74HC04 U?
+U 6 1 6101E67B
+P 1500 4150
+AR Path="/611BF25E/6101E67B" Ref="U?"  Part="6" 
+AR Path="/610111E8/6101E67B" Ref="U1601"  Part="6" 
+F 0 "U1601" H 1500 4467 50  0000 C CNN
+F 1 "74HC04" H 1500 4376 50  0000 C CNN
+F 2 "" H 1500 4150 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 1500 4150 50  0001 C CNN
+	6    1500 4150
+	1    0    0    -1  
+$EndComp
+NoConn ~ 1800 2800
+NoConn ~ 1800 3700
+NoConn ~ 1800 4150
+NoConn ~ 1800 3250
+$Comp
+L 74xx:74HC04 U?
+U 4 1 6101E685
+P 1500 3250
+AR Path="/611BF25E/6101E685" Ref="U?"  Part="4" 
+AR Path="/610111E8/6101E685" Ref="U1601"  Part="4" 
+F 0 "U1601" H 1500 3567 50  0000 C CNN
+F 1 "74HC04" H 1500 3476 50  0000 C CNN
+F 2 "" H 1500 3250 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 1500 3250 50  0001 C CNN
+	4    1500 3250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1200 2800 1050 2800
+Wire Wire Line
+	1050 2800 1050 3250
+Wire Wire Line
+	1050 4150 1200 4150
+Wire Wire Line
+	1200 3700 1050 3700
+Connection ~ 1050 3700
+Wire Wire Line
+	1050 3700 1050 4150
+Wire Wire Line
+	1200 3250 1050 3250
+Connection ~ 1050 3250
+Wire Wire Line
+	1050 3250 1050 3700
+$Comp
+L power:GND #PWR?
+U 1 1 6101E694
+P 1050 4300
+AR Path="/611BF25E/6101E694" Ref="#PWR?"  Part="1" 
+AR Path="/610111E8/6101E694" Ref="#PWR0104"  Part="1" 
+F 0 "#PWR0104" H 1050 4050 50  0001 C CNN
+F 1 "GND" H 1055 4127 50  0000 C CNN
+F 2 "" H 1050 4300 50  0001 C CNN
+F 3 "" H 1050 4300 50  0001 C CNN
+	1    1050 4300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1050 4150 1050 4300
+Connection ~ 1050 4150
+NoConn ~ 4000 1750
+$Comp
+L power:GND #PWR?
+U 1 1 61038A08
+P 3300 1950
+AR Path="/60832C87/61038A08" Ref="#PWR?"  Part="1" 
+AR Path="/610111E8/61038A08" Ref="#PWR0105"  Part="1" 
+F 0 "#PWR0105" H 3300 1700 50  0001 C CNN
+F 1 "GND" H 3305 1777 50  0000 C CNN
+F 2 "" H 3300 1950 50  0001 C CNN
+F 3 "" H 3300 1950 50  0001 C CNN
+	1    3300 1950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3400 1650 3300 1650
+Wire Wire Line
+	3300 1650 3300 1850
+Wire Wire Line
+	3400 1850 3300 1850
+Connection ~ 3300 1850
+Wire Wire Line
+	3300 1850 3300 1950
+$Comp
+L power:GND #PWR?
+U 1 1 61038A13
+P 3300 1400
+AR Path="/60832C87/61038A13" Ref="#PWR?"  Part="1" 
+AR Path="/610111E8/61038A13" Ref="#PWR0106"  Part="1" 
+F 0 "#PWR0106" H 3300 1150 50  0001 C CNN
+F 1 "GND" H 3305 1227 50  0000 C CNN
+F 2 "" H 3300 1400 50  0001 C CNN
+F 3 "" H 3300 1400 50  0001 C CNN
+	1    3300 1400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3400 1100 3300 1100
+Wire Wire Line
+	3300 1100 3300 1300
+Wire Wire Line
+	3400 1300 3300 1300
+Connection ~ 3300 1300
+Wire Wire Line
+	3300 1300 3300 1400
+NoConn ~ 4000 1200
+$Comp
+L power:GND #PWR?
+U 1 1 61038A1F
+P 3300 2550
+AR Path="/60832C87/61038A1F" Ref="#PWR?"  Part="1" 
+AR Path="/610111E8/61038A1F" Ref="#PWR0107"  Part="1" 
+F 0 "#PWR0107" H 3300 2300 50  0001 C CNN
+F 1 "GND" H 3305 2377 50  0000 C CNN
+F 2 "" H 3300 2550 50  0001 C CNN
+F 3 "" H 3300 2550 50  0001 C CNN
+	1    3300 2550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3400 2250 3300 2250
+Wire Wire Line
+	3300 2250 3300 2450
+Wire Wire Line
+	3400 2450 3300 2450
+Connection ~ 3300 2450
+Wire Wire Line
+	3300 2450 3300 2550
+$Comp
+L power:GND #PWR?
+U 1 1 61038A2A
+P 3300 3100
+AR Path="/60832C87/61038A2A" Ref="#PWR?"  Part="1" 
+AR Path="/610111E8/61038A2A" Ref="#PWR0108"  Part="1" 
+F 0 "#PWR0108" H 3300 2850 50  0001 C CNN
+F 1 "GND" H 3305 2927 50  0000 C CNN
+F 2 "" H 3300 3100 50  0001 C CNN
+F 3 "" H 3300 3100 50  0001 C CNN
+	1    3300 3100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3400 2800 3300 2800
+Wire Wire Line
+	3300 2800 3300 3000
+Wire Wire Line
+	3400 3000 3300 3000
+Connection ~ 3300 3000
+Wire Wire Line
+	3300 3000 3300 3100
+$Comp
+L power:GND #PWR?
+U 1 1 61038A35
+P 3300 3650
+AR Path="/60832C87/61038A35" Ref="#PWR?"  Part="1" 
+AR Path="/610111E8/61038A35" Ref="#PWR0109"  Part="1" 
+F 0 "#PWR0109" H 3300 3400 50  0001 C CNN
+F 1 "GND" H 3305 3477 50  0000 C CNN
+F 2 "" H 3300 3650 50  0001 C CNN
+F 3 "" H 3300 3650 50  0001 C CNN
+	1    3300 3650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3400 3350 3300 3350
+Wire Wire Line
+	3300 3350 3300 3450
+Wire Wire Line
+	3400 3550 3300 3550
+Connection ~ 3300 3550
+Wire Wire Line
+	3300 3550 3300 3650
+Wire Wire Line
+	3400 3450 3300 3450
+Connection ~ 3300 3450
+Wire Wire Line
+	3300 3450 3300 3550
+NoConn ~ 4000 3450
+NoConn ~ 4000 2900
+NoConn ~ 4000 2350
+$Comp
+L 74xx:74HC02 U?
+U 2 1 61038A46
+P 3700 1200
+AR Path="/60832C87/61038A46" Ref="U?"  Part="2" 
+AR Path="/610111E8/61038A46" Ref="U1001"  Part="2" 
+F 0 "U1001" H 3700 1525 50  0000 C CNN
+F 1 "74HC02" H 3700 1434 50  0000 C CNN
+F 2 "" H 3700 1200 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74hc02" H 3700 1200 50  0001 C CNN
+	2    3700 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L CES:74HC08 U?
+U 4 1 61038A4C
+P 3700 2900
+AR Path="/60832C87/61038A4C" Ref="U?"  Part="4" 
+AR Path="/610111E8/61038A4C" Ref="U1004"  Part="4" 
+F 0 "U1004" H 3700 3225 50  0000 C CNN
+F 1 "74HC08" H 3700 3134 50  0000 C CNN
+F 2 "" H 3700 2900 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74HC08" H 3700 2900 50  0001 C CNN
+	4    3700 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L CES:74HC08 U?
+U 3 1 61038A52
+P 3700 2350
+AR Path="/60832C87/61038A52" Ref="U?"  Part="3" 
+AR Path="/610111E8/61038A52" Ref="U1004"  Part="3" 
+F 0 "U1004" H 3700 2675 50  0000 C CNN
+F 1 "74HC08" H 3700 2584 50  0000 C CNN
+F 2 "" H 3700 2350 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74HC08" H 3700 2350 50  0001 C CNN
+	3    3700 2350
+	1    0    0    -1  
+$EndComp
+$Comp
+L CES:74HC08 U?
+U 2 1 61038A58
+P 3700 1750
+AR Path="/60832C87/61038A58" Ref="U?"  Part="2" 
+AR Path="/610111E8/61038A58" Ref="U1004"  Part="2" 
+F 0 "U1004" H 3700 2075 50  0000 C CNN
+F 1 "74HC08" H 3700 1984 50  0000 C CNN
+F 2 "" H 3700 1750 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74HC08" H 3700 1750 50  0001 C CNN
+	2    3700 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L CES:74HC10 U?
+U 3 1 61038A5E
+P 3700 3450
+AR Path="/60832C87/61038A5E" Ref="U?"  Part="3" 
+AR Path="/610111E8/61038A5E" Ref="U1003"  Part="3" 
+F 0 "U1003" H 3700 3775 50  0000 C CNN
+F 1 "74HC10" H 3700 3684 50  0000 C CNN
+F 2 "" H 3700 3450 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74HC10" H 3700 3450 50  0001 C CNN
+	3    3700 3450
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
