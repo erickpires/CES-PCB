@@ -12,16 +12,52 @@ K TTL Nand3
 F http://www.ti.com/lit/gpn/sn74HC10
 $ENDCMP
 #
+$CMP 74HC112
+D dual JK Flip-Flop, Set & Reset
+K TTL JK
+F http://www.ti.com/lit/gpn/sn74HC112
+$ENDCMP
+#
 $CMP 74HC173
 D 4-bit D-type Register, 3 state out
 K TTL REG REG4 3State DFF
 F http://www.ti.com/lit/gpn/cd74HC173
 $ENDCMP
 #
+$CMP 74HC175
+D 4-bit D Flip-Flop, reset
+K TTL REG REG4 DFF
+F http://www.ti.com/lit/gpn/sn74HC175
+$ENDCMP
+#
+$CMP 74HC20
+D Dual 4-input NAND
+K TTL Nand4
+F http://www.ti.com/lit/gpn/sn74HC20
+$ENDCMP
+#
+$CMP 74HC21
+D Dual 4-input AND
+K TTL And4
+F http://www.ti.com/lit/gpn/sn74HC21
+$ENDCMP
+#
+$CMP 74HC22
+D Dual 4-input NAND Open Collector
+K TTL Nand4 OpenColl
+F http://www.ti.com/lit/gpn/sn74HC22
+$ENDCMP
+#
 $CMP 74HC257
 D Quad 2 to 1 Multiplexer
 K TTL MUX MUX2
 F http://www.ti.com/lit/gpn/sn74HC257
+$ENDCMP
+#
+$CMP 74HC27
+D Triple 3-input NOR
+K TTL Nor3
+F http://www.ti.com/lit/gpn/sn74HC27
 $ENDCMP
 #
 $CMP 74HC283
@@ -34,6 +70,24 @@ $CMP 74HC30
 D 8-input NAND
 K TTL Nand8
 F http://www.ti.com/lit/gpn/sn74HC30
+$ENDCMP
+#
+$CMP 74HC40
+D Dual 4-input NAND
+K TTL Nand4
+F http://www.ti.com/lit/gpn/sn74HC40
+$ENDCMP
+#
+$CMP 74LS22
+D Dual 4-input NAND Open Collector
+K TTL Nand4 OpenColl
+F http://www.ti.com/lit/gpn/sn74LS22
+$ENDCMP
+#
+$CMP 74LS40
+D Dual 4-input NAND
+K TTL Nand4
+F http://www.ti.com/lit/gpn/sn74LS40
 $ENDCMP
 #
 #End Doc Library

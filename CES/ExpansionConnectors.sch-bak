@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 16 16
+Sheet 16 17
 Title ""
 Date ""
 Rev ""
@@ -14,10 +14,10 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Connector:Conn_01x16_Female J?
+L Connector:Conn_01x16_Female J1701
 U 1 1 60990C84
 P 3200 1700
-F 0 "J?" H 3250 800 50  0000 R CNN
+F 0 "J1701" H 3250 800 50  0000 R CNN
 F 1 "AddressBusConnector" H 3600 2600 50  0000 R CNN
 F 2 "" H 3200 1700 50  0001 C CNN
 F 3 "~" H 3200 1700 50  0001 C CNN
@@ -25,10 +25,10 @@ F 3 "~" H 3200 1700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:Conn_01x16_Female J?
+L Connector:Conn_01x16_Female J1702
 U 1 1 60994D8B
 P 3200 3900
-F 0 "J?" H 3250 3000 50  0000 R CNN
+F 0 "J1702" H 3250 3000 50  0000 R CNN
 F 1 "DataBusConnector" H 3600 4800 50  0000 R CNN
 F 2 "" H 3200 3900 50  0001 C CNN
 F 3 "~" H 3200 3900 50  0001 C CNN
@@ -36,10 +36,10 @@ F 3 "~" H 3200 3900 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:Conn_01x16_Female J?
+L Connector:Conn_01x16_Female J1703
 U 1 1 609975FA
 P 3200 6050
-F 0 "J?" H 3200 5150 50  0000 R CNN
+F 0 "J1703" H 3200 5150 50  0000 R CNN
 F 1 "RTConnector" H 3600 6950 50  0000 R CNN
 F 2 "" H 3200 6050 50  0001 C CNN
 F 3 "~" H 3200 6050 50  0001 C CNN
@@ -245,10 +245,10 @@ Text GLabel 6500 1600 0    50   Input ~ 0
 Text GLabel 7000 1500 0    50   Input ~ 0
 ~HabSaiRAM
 $Comp
-L power:VCC #PWR?
+L power:VCC #PWR01701
 U 1 1 609B015B
 P 7250 900
-F 0 "#PWR?" H 7250 750 50  0001 C CNN
+F 0 "#PWR01701" H 7250 750 50  0001 C CNN
 F 1 "VCC" H 7265 1073 50  0000 C CNN
 F 2 "" H 7250 900 50  0001 C CNN
 F 3 "" H 7250 900 50  0001 C CNN
@@ -256,10 +256,10 @@ F 3 "" H 7250 900 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR?
+L power:GND #PWR01702
 U 1 1 609B027B
 P 7250 1250
-F 0 "#PWR?" H 7250 1000 50  0001 C CNN
+F 0 "#PWR01702" H 7250 1000 50  0001 C CNN
 F 1 "GND" H 7100 1150 50  0000 C CNN
 F 2 "" H 7250 1250 50  0001 C CNN
 F 3 "" H 7250 1250 50  0001 C CNN
@@ -267,11 +267,11 @@ F 3 "" H 7250 1250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:Conn_01x07_Female J?
+L Connector:Conn_01x07_Female J1704
 U 1 1 609B0E5F
 P 7700 1300
-F 0 "J?" H 7728 1326 50  0000 L CNN
-F 1 "Conn_01x07_Female" H 7728 1235 50  0000 L CNN
+F 0 "J1704" H 7650 900 50  0000 L CNN
+F 1 "MemSignalsConnector" H 7300 1750 50  0000 L CNN
 F 2 "" H 7700 1300 50  0001 C CNN
 F 3 "~" H 7700 1300 50  0001 C CNN
 	1    7700 1300
