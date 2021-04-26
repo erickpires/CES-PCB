@@ -73,7 +73,7 @@ AR Path="/60832DB9/60C2ED9D" Ref="J?"  Part="1"
 AR Path="/60832DB9/60BC5CB5/60C2ED9D" Ref="J1303"  Part="1" 
 F 0 "J1303" H 9350 2300 50  0000 R CNN
 F 1 "PanelEnd" H 9450 4050 50  0000 R CNN
-F 2 "" H 9250 3250 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Vertical" H 9250 3250 50  0001 C CNN
 F 3 "~" H 9250 3250 50  0001 C CNN
 	1    9250 3250
 	-1   0    0    -1  
@@ -242,7 +242,7 @@ AR Path="/60832DB9/60C2EDF1" Ref="J?"  Part="1"
 AR Path="/60832DB9/60BC5CB5/60C2EDF1" Ref="J1302"  Part="1" 
 F 0 "J1302" H 6850 2300 50  0000 R CNN
 F 1 "PanelMem" H 6950 4050 50  0000 R CNN
-F 2 "" H 6750 3250 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Vertical" H 6750 3250 50  0001 C CNN
 F 3 "~" H 6750 3250 50  0001 C CNN
 	1    6750 3250
 	-1   0    0    -1  
@@ -415,7 +415,7 @@ AR Path="/60832DB9/60C2EE48" Ref="J?"  Part="1"
 AR Path="/60832DB9/60BC5CB5/60C2EE48" Ref="J1301"  Part="1" 
 F 0 "J1301" H 4550 2300 50  0000 R CNN
 F 1 "PanelRT" H 4650 4050 50  0000 R CNN
-F 2 "" H 4450 3250 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Vertical" H 4450 3250 50  0001 C CNN
 F 3 "~" H 4450 3250 50  0001 C CNN
 	1    4450 3250
 	-1   0    0    -1  
@@ -452,7 +452,7 @@ AR Path="/60832DB9/60C2EE5A" Ref="U?"  Part="1"
 AR Path="/60832DB9/60BC5CB5/60C2EE5A" Ref="U1301"  Part="1" 
 F 0 "U1301" H 3400 900 50  0000 C CNN
 F 1 "74HC04" H 3100 800 50  0000 C CNN
-F 2 "" H 3150 800 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 3150 800 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 3150 800 50  0001 C CNN
 	1    3150 800 
 	1    0    0    -1  
@@ -465,7 +465,7 @@ AR Path="/60832DB9/60C2EE60" Ref="U?"  Part="2"
 AR Path="/60832DB9/60BC5CB5/60C2EE60" Ref="U1301"  Part="2" 
 F 0 "U1301" H 3400 1250 50  0000 C CNN
 F 1 "74HC04" H 3100 1150 50  0000 C CNN
-F 2 "" H 3150 1150 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 3150 1150 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 3150 1150 50  0001 C CNN
 	2    3150 1150
 	1    0    0    -1  
@@ -478,7 +478,7 @@ AR Path="/60832DB9/60C2EE66" Ref="U?"  Part="3"
 AR Path="/60832DB9/60BC5CB5/60C2EE66" Ref="U1301"  Part="3" 
 F 0 "U1301" H 3400 1600 50  0000 C CNN
 F 1 "74HC04" H 3100 1500 50  0000 C CNN
-F 2 "" H 3150 1500 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 3150 1500 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 3150 1500 50  0001 C CNN
 	3    3150 1500
 	1    0    0    -1  
@@ -491,7 +491,7 @@ AR Path="/60832DB9/60C2EE6C" Ref="U?"  Part="4"
 AR Path="/60832DB9/60BC5CB5/60C2EE6C" Ref="U1301"  Part="4" 
 F 0 "U1301" H 3400 1950 50  0000 C CNN
 F 1 "74HC04" H 3100 1850 50  0000 C CNN
-F 2 "" H 3150 1850 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 3150 1850 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 3150 1850 50  0001 C CNN
 	4    3150 1850
 	1    0    0    -1  
@@ -580,7 +580,7 @@ AR Path="/60832DB9/60C2EE98" Ref="U?"  Part="4"
 AR Path="/60832DB9/60BC5CB5/60C2EE98" Ref="U1302"  Part="4" 
 F 0 "U1302" H 3400 4100 50  0000 C CNN
 F 1 "74HC04" H 3100 3950 50  0000 C CNN
-F 2 "" H 3150 3950 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 3150 3950 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 3150 3950 50  0001 C CNN
 	4    3150 3950
 	1    0    0    -1  
@@ -593,7 +593,7 @@ AR Path="/60832DB9/60C2EE9E" Ref="U?"  Part="6"
 AR Path="/60832DB9/60BC5CB5/60C2EE9E" Ref="U1308"  Part="6" 
 F 0 "U1308" H 8200 6150 50  0000 C CNN
 F 1 "74HC04" H 7900 6050 50  0000 C CNN
-F 2 "" H 7950 6050 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 7950 6050 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 7950 6050 50  0001 C CNN
 	6    7950 6050
 	1    0    0    -1  
@@ -606,7 +606,7 @@ AR Path="/60832DB9/60C2EEA4" Ref="U?"  Part="5"
 AR Path="/60832DB9/60BC5CB5/60C2EEA4" Ref="U1308"  Part="5" 
 F 0 "U1308" H 8200 5800 50  0000 C CNN
 F 1 "74HC04" H 7900 5700 50  0000 C CNN
-F 2 "" H 7950 5700 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 7950 5700 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 7950 5700 50  0001 C CNN
 	5    7950 5700
 	1    0    0    -1  
@@ -619,7 +619,7 @@ AR Path="/60832DB9/60C2EEAA" Ref="U?"  Part="4"
 AR Path="/60832DB9/60BC5CB5/60C2EEAA" Ref="U1308"  Part="4" 
 F 0 "U1308" H 8200 5450 50  0000 C CNN
 F 1 "74HC04" H 7900 5350 50  0000 C CNN
-F 2 "" H 7950 5350 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 7950 5350 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 7950 5350 50  0001 C CNN
 	4    7950 5350
 	1    0    0    -1  
@@ -632,7 +632,7 @@ AR Path="/60832DB9/60C2EEB0" Ref="U?"  Part="3"
 AR Path="/60832DB9/60BC5CB5/60C2EEB0" Ref="U1308"  Part="3" 
 F 0 "U1308" H 8200 5100 50  0000 C CNN
 F 1 "74HC04" H 7900 5000 50  0000 C CNN
-F 2 "" H 7950 5000 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 7950 5000 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 7950 5000 50  0001 C CNN
 	3    7950 5000
 	1    0    0    -1  
@@ -645,7 +645,7 @@ AR Path="/60832DB9/60C2EEB6" Ref="U?"  Part="2"
 AR Path="/60832DB9/60BC5CB5/60C2EEB6" Ref="U1308"  Part="2" 
 F 0 "U1308" H 8200 4750 50  0000 C CNN
 F 1 "74HC04" H 7900 4650 50  0000 C CNN
-F 2 "" H 7950 4650 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 7950 4650 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 7950 4650 50  0001 C CNN
 	2    7950 4650
 	1    0    0    -1  
@@ -658,7 +658,7 @@ AR Path="/60832DB9/60C2EEBC" Ref="U?"  Part="1"
 AR Path="/60832DB9/60BC5CB5/60C2EEBC" Ref="U1308"  Part="1" 
 F 0 "U1308" H 8200 4400 50  0000 C CNN
 F 1 "74HC04" H 7900 4300 50  0000 C CNN
-F 2 "" H 7950 4300 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 7950 4300 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 7950 4300 50  0001 C CNN
 	1    7950 4300
 	1    0    0    -1  
@@ -671,7 +671,7 @@ AR Path="/60832DB9/60C2EEC2" Ref="U?"  Part="6"
 AR Path="/60832DB9/60BC5CB5/60C2EEC2" Ref="U1307"  Part="6" 
 F 0 "U1307" H 8200 4050 50  0000 C CNN
 F 1 "74HC04" H 7900 3950 50  0000 C CNN
-F 2 "" H 7950 3950 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 7950 3950 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 7950 3950 50  0001 C CNN
 	6    7950 3950
 	1    0    0    -1  
@@ -684,7 +684,7 @@ AR Path="/60832DB9/60C2EEC8" Ref="U?"  Part="5"
 AR Path="/60832DB9/60BC5CB5/60C2EEC8" Ref="U1307"  Part="5" 
 F 0 "U1307" H 8200 3700 50  0000 C CNN
 F 1 "74HC04" H 7900 3600 50  0000 C CNN
-F 2 "" H 7950 3600 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 7950 3600 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 7950 3600 50  0001 C CNN
 	5    7950 3600
 	1    0    0    -1  
@@ -697,7 +697,7 @@ AR Path="/60832DB9/60C2EECE" Ref="U?"  Part="4"
 AR Path="/60832DB9/60BC5CB5/60C2EECE" Ref="U1307"  Part="4" 
 F 0 "U1307" H 8200 3350 50  0000 C CNN
 F 1 "74HC04" H 7900 3250 50  0000 C CNN
-F 2 "" H 7950 3250 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 7950 3250 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 7950 3250 50  0001 C CNN
 	4    7950 3250
 	1    0    0    -1  
@@ -710,7 +710,7 @@ AR Path="/60832DB9/60C2EED4" Ref="U?"  Part="3"
 AR Path="/60832DB9/60BC5CB5/60C2EED4" Ref="U1307"  Part="3" 
 F 0 "U1307" H 8200 3000 50  0000 C CNN
 F 1 "74HC04" H 7900 2900 50  0000 C CNN
-F 2 "" H 7950 2900 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 7950 2900 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 7950 2900 50  0001 C CNN
 	3    7950 2900
 	1    0    0    -1  
@@ -723,7 +723,7 @@ AR Path="/60832DB9/60C2EEDA" Ref="U?"  Part="2"
 AR Path="/60832DB9/60BC5CB5/60C2EEDA" Ref="U1307"  Part="2" 
 F 0 "U1307" H 8200 2650 50  0000 C CNN
 F 1 "74HC04" H 7900 2550 50  0000 C CNN
-F 2 "" H 7950 2550 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 7950 2550 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 7950 2550 50  0001 C CNN
 	2    7950 2550
 	1    0    0    -1  
@@ -736,7 +736,7 @@ AR Path="/60832DB9/60C2EEE0" Ref="U?"  Part="1"
 AR Path="/60832DB9/60BC5CB5/60C2EEE0" Ref="U1307"  Part="1" 
 F 0 "U1307" H 8200 2300 50  0000 C CNN
 F 1 "74HC04" H 7900 2200 50  0000 C CNN
-F 2 "" H 7950 2200 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 7950 2200 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 7950 2200 50  0001 C CNN
 	1    7950 2200
 	1    0    0    -1  
@@ -749,7 +749,7 @@ AR Path="/60832DB9/60C2EEE6" Ref="U?"  Part="6"
 AR Path="/60832DB9/60BC5CB5/60C2EEE6" Ref="U1306"  Part="6" 
 F 0 "U1306" H 8200 1950 50  0000 C CNN
 F 1 "74HC04" H 7900 1850 50  0000 C CNN
-F 2 "" H 7950 1850 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 7950 1850 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 7950 1850 50  0001 C CNN
 	6    7950 1850
 	1    0    0    -1  
@@ -762,7 +762,7 @@ AR Path="/60832DB9/60C2EEEC" Ref="U?"  Part="5"
 AR Path="/60832DB9/60BC5CB5/60C2EEEC" Ref="U1306"  Part="5" 
 F 0 "U1306" H 8200 1600 50  0000 C CNN
 F 1 "74HC04" H 7900 1500 50  0000 C CNN
-F 2 "" H 7950 1500 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 7950 1500 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 7950 1500 50  0001 C CNN
 	5    7950 1500
 	1    0    0    -1  
@@ -775,7 +775,7 @@ AR Path="/60832DB9/60C2EEF2" Ref="U?"  Part="4"
 AR Path="/60832DB9/60BC5CB5/60C2EEF2" Ref="U1306"  Part="4" 
 F 0 "U1306" H 8200 1250 50  0000 C CNN
 F 1 "74HC04" H 7900 1150 50  0000 C CNN
-F 2 "" H 7950 1150 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 7950 1150 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 7950 1150 50  0001 C CNN
 	4    7950 1150
 	1    0    0    -1  
@@ -788,7 +788,7 @@ AR Path="/60832DB9/60C2EEF8" Ref="U?"  Part="3"
 AR Path="/60832DB9/60BC5CB5/60C2EEF8" Ref="U1306"  Part="3" 
 F 0 "U1306" H 8200 900 50  0000 C CNN
 F 1 "74HC04" H 7900 800 50  0000 C CNN
-F 2 "" H 7950 800 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 7950 800 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 7950 800 50  0001 C CNN
 	3    7950 800 
 	1    0    0    -1  
@@ -801,7 +801,7 @@ AR Path="/60832DB9/60C2EEFE" Ref="U?"  Part="2"
 AR Path="/60832DB9/60BC5CB5/60C2EEFE" Ref="U1306"  Part="2" 
 F 0 "U1306" H 5700 6150 50  0000 C CNN
 F 1 "74HC04" H 5400 6050 50  0000 C CNN
-F 2 "" H 5450 6050 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 5450 6050 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 5450 6050 50  0001 C CNN
 	2    5450 6050
 	1    0    0    -1  
@@ -814,7 +814,7 @@ AR Path="/60832DB9/60C2EF04" Ref="U?"  Part="1"
 AR Path="/60832DB9/60BC5CB5/60C2EF04" Ref="U1306"  Part="1" 
 F 0 "U1306" H 5700 5800 50  0000 C CNN
 F 1 "74HC04" H 5400 5700 50  0000 C CNN
-F 2 "" H 5450 5700 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 5450 5700 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 5450 5700 50  0001 C CNN
 	1    5450 5700
 	1    0    0    -1  
@@ -827,7 +827,7 @@ AR Path="/60832DB9/60C2EF0A" Ref="U?"  Part="6"
 AR Path="/60832DB9/60BC5CB5/60C2EF0A" Ref="U1305"  Part="6" 
 F 0 "U1305" H 5700 5450 50  0000 C CNN
 F 1 "74HC04" H 5400 5350 50  0000 C CNN
-F 2 "" H 5450 5350 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 5450 5350 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 5450 5350 50  0001 C CNN
 	6    5450 5350
 	1    0    0    -1  
@@ -840,7 +840,7 @@ AR Path="/60832DB9/60C2EF10" Ref="U?"  Part="5"
 AR Path="/60832DB9/60BC5CB5/60C2EF10" Ref="U1305"  Part="5" 
 F 0 "U1305" H 5700 5100 50  0000 C CNN
 F 1 "74HC04" H 5400 5000 50  0000 C CNN
-F 2 "" H 5450 5000 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 5450 5000 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 5450 5000 50  0001 C CNN
 	5    5450 5000
 	1    0    0    -1  
@@ -853,7 +853,7 @@ AR Path="/60832DB9/60C2EF16" Ref="U?"  Part="4"
 AR Path="/60832DB9/60BC5CB5/60C2EF16" Ref="U1305"  Part="4" 
 F 0 "U1305" H 5700 4750 50  0000 C CNN
 F 1 "74HC04" H 5400 4650 50  0000 C CNN
-F 2 "" H 5450 4650 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 5450 4650 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 5450 4650 50  0001 C CNN
 	4    5450 4650
 	1    0    0    -1  
@@ -866,7 +866,7 @@ AR Path="/60832DB9/60C2EF1C" Ref="U?"  Part="3"
 AR Path="/60832DB9/60BC5CB5/60C2EF1C" Ref="U1305"  Part="3" 
 F 0 "U1305" H 5700 4400 50  0000 C CNN
 F 1 "74HC04" H 5400 4300 50  0000 C CNN
-F 2 "" H 5450 4300 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 5450 4300 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 5450 4300 50  0001 C CNN
 	3    5450 4300
 	1    0    0    -1  
@@ -879,7 +879,7 @@ AR Path="/60832DB9/60C2EF22" Ref="U?"  Part="2"
 AR Path="/60832DB9/60BC5CB5/60C2EF22" Ref="U1305"  Part="2" 
 F 0 "U1305" H 5700 4050 50  0000 C CNN
 F 1 "74HC04" H 5400 3950 50  0000 C CNN
-F 2 "" H 5450 3950 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 5450 3950 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 5450 3950 50  0001 C CNN
 	2    5450 3950
 	1    0    0    -1  
@@ -892,7 +892,7 @@ AR Path="/60832DB9/60C2EF28" Ref="U?"  Part="1"
 AR Path="/60832DB9/60BC5CB5/60C2EF28" Ref="U1305"  Part="1" 
 F 0 "U1305" H 5700 3700 50  0000 C CNN
 F 1 "74HC04" H 5400 3600 50  0000 C CNN
-F 2 "" H 5450 3600 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 5450 3600 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 5450 3600 50  0001 C CNN
 	1    5450 3600
 	1    0    0    -1  
@@ -905,7 +905,7 @@ AR Path="/60832DB9/60C2EF2E" Ref="U?"  Part="6"
 AR Path="/60832DB9/60BC5CB5/60C2EF2E" Ref="U1304"  Part="6" 
 F 0 "U1304" H 5700 3350 50  0000 C CNN
 F 1 "74HC04" H 5400 3250 50  0000 C CNN
-F 2 "" H 5450 3250 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 5450 3250 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 5450 3250 50  0001 C CNN
 	6    5450 3250
 	1    0    0    -1  
@@ -918,7 +918,7 @@ AR Path="/60832DB9/60C2EF34" Ref="U?"  Part="5"
 AR Path="/60832DB9/60BC5CB5/60C2EF34" Ref="U1304"  Part="5" 
 F 0 "U1304" H 5700 3000 50  0000 C CNN
 F 1 "74HC04" H 5400 2900 50  0000 C CNN
-F 2 "" H 5450 2900 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 5450 2900 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 5450 2900 50  0001 C CNN
 	5    5450 2900
 	1    0    0    -1  
@@ -931,7 +931,7 @@ AR Path="/60832DB9/60C2EF3A" Ref="U?"  Part="4"
 AR Path="/60832DB9/60BC5CB5/60C2EF3A" Ref="U1304"  Part="4" 
 F 0 "U1304" H 5700 2650 50  0000 C CNN
 F 1 "74HC04" H 5400 2550 50  0000 C CNN
-F 2 "" H 5450 2550 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 5450 2550 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 5450 2550 50  0001 C CNN
 	4    5450 2550
 	1    0    0    -1  
@@ -944,7 +944,7 @@ AR Path="/60832DB9/60C2EF40" Ref="U?"  Part="3"
 AR Path="/60832DB9/60BC5CB5/60C2EF40" Ref="U1304"  Part="3" 
 F 0 "U1304" H 5700 2300 50  0000 C CNN
 F 1 "74HC04" H 5400 2200 50  0000 C CNN
-F 2 "" H 5450 2200 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 5450 2200 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 5450 2200 50  0001 C CNN
 	3    5450 2200
 	1    0    0    -1  
@@ -957,7 +957,7 @@ AR Path="/60832DB9/60C2EF46" Ref="U?"  Part="2"
 AR Path="/60832DB9/60BC5CB5/60C2EF46" Ref="U1304"  Part="2" 
 F 0 "U1304" H 5700 1950 50  0000 C CNN
 F 1 "74HC04" H 5400 1850 50  0000 C CNN
-F 2 "" H 5450 1850 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 5450 1850 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 5450 1850 50  0001 C CNN
 	2    5450 1850
 	1    0    0    -1  
@@ -970,7 +970,7 @@ AR Path="/60832DB9/60C2EF4C" Ref="U?"  Part="1"
 AR Path="/60832DB9/60BC5CB5/60C2EF4C" Ref="U1304"  Part="1" 
 F 0 "U1304" H 5700 1600 50  0000 C CNN
 F 1 "74HC04" H 5400 1500 50  0000 C CNN
-F 2 "" H 5450 1500 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 5450 1500 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 5450 1500 50  0001 C CNN
 	1    5450 1500
 	1    0    0    -1  
@@ -983,7 +983,7 @@ AR Path="/60832DB9/60C2EF52" Ref="U?"  Part="6"
 AR Path="/60832DB9/60BC5CB5/60C2EF52" Ref="U1303"  Part="6" 
 F 0 "U1303" H 5700 1250 50  0000 C CNN
 F 1 "74HC04" H 5400 1150 50  0000 C CNN
-F 2 "" H 5450 1150 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 5450 1150 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 5450 1150 50  0001 C CNN
 	6    5450 1150
 	1    0    0    -1  
@@ -996,7 +996,7 @@ AR Path="/60832DB9/60C2EF58" Ref="U?"  Part="5"
 AR Path="/60832DB9/60BC5CB5/60C2EF58" Ref="U1303"  Part="5" 
 F 0 "U1303" H 5700 900 50  0000 C CNN
 F 1 "74HC04" H 5400 800 50  0000 C CNN
-F 2 "" H 5450 800 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 5450 800 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 5450 800 50  0001 C CNN
 	5    5450 800 
 	1    0    0    -1  
@@ -1009,7 +1009,7 @@ AR Path="/60832DB9/60C2EF5E" Ref="U?"  Part="4"
 AR Path="/60832DB9/60BC5CB5/60C2EF5E" Ref="U1303"  Part="4" 
 F 0 "U1303" H 3400 6150 50  0000 C CNN
 F 1 "74HC04" H 3100 6050 50  0000 C CNN
-F 2 "" H 3150 6050 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 3150 6050 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 3150 6050 50  0001 C CNN
 	4    3150 6050
 	1    0    0    -1  
@@ -1022,7 +1022,7 @@ AR Path="/60832DB9/60C2EF64" Ref="U?"  Part="3"
 AR Path="/60832DB9/60BC5CB5/60C2EF64" Ref="U1303"  Part="3" 
 F 0 "U1303" H 3400 5800 50  0000 C CNN
 F 1 "74HC04" H 3100 5700 50  0000 C CNN
-F 2 "" H 3150 5700 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 3150 5700 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 3150 5700 50  0001 C CNN
 	3    3150 5700
 	1    0    0    -1  
@@ -1035,7 +1035,7 @@ AR Path="/60832DB9/60C2EF6A" Ref="U?"  Part="2"
 AR Path="/60832DB9/60BC5CB5/60C2EF6A" Ref="U1303"  Part="2" 
 F 0 "U1303" H 3400 5500 50  0000 C CNN
 F 1 "74HC04" H 3100 5350 50  0000 C CNN
-F 2 "" H 3150 5350 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 3150 5350 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 3150 5350 50  0001 C CNN
 	2    3150 5350
 	1    0    0    -1  
@@ -1048,7 +1048,7 @@ AR Path="/60832DB9/60C2EF70" Ref="U?"  Part="1"
 AR Path="/60832DB9/60BC5CB5/60C2EF70" Ref="U1303"  Part="1" 
 F 0 "U1303" H 3400 5100 50  0000 C CNN
 F 1 "74HC04" H 3100 5000 50  0000 C CNN
-F 2 "" H 3150 5000 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 3150 5000 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 3150 5000 50  0001 C CNN
 	1    3150 5000
 	1    0    0    -1  
@@ -1061,7 +1061,7 @@ AR Path="/60832DB9/60C2EF76" Ref="U?"  Part="6"
 AR Path="/60832DB9/60BC5CB5/60C2EF76" Ref="U1302"  Part="6" 
 F 0 "U1302" H 3400 4750 50  0000 C CNN
 F 1 "74HC04" H 3100 4650 50  0000 C CNN
-F 2 "" H 3150 4650 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 3150 4650 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 3150 4650 50  0001 C CNN
 	6    3150 4650
 	1    0    0    -1  
@@ -1074,7 +1074,7 @@ AR Path="/60832DB9/60C2EF7C" Ref="U?"  Part="5"
 AR Path="/60832DB9/60BC5CB5/60C2EF7C" Ref="U1302"  Part="5" 
 F 0 "U1302" H 3400 4450 50  0000 C CNN
 F 1 "74HC04" H 3100 4300 50  0000 C CNN
-F 2 "" H 3150 4300 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 3150 4300 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 3150 4300 50  0001 C CNN
 	5    3150 4300
 	1    0    0    -1  
@@ -1087,7 +1087,7 @@ AR Path="/60832DB9/60C2EF82" Ref="U?"  Part="3"
 AR Path="/60832DB9/60BC5CB5/60C2EF82" Ref="U1302"  Part="3" 
 F 0 "U1302" H 3400 3700 50  0000 C CNN
 F 1 "74HC04" H 3100 3600 50  0000 C CNN
-F 2 "" H 3150 3600 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 3150 3600 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 3150 3600 50  0001 C CNN
 	3    3150 3600
 	1    0    0    -1  
@@ -1100,7 +1100,7 @@ AR Path="/60832DB9/60C2EF88" Ref="U?"  Part="2"
 AR Path="/60832DB9/60BC5CB5/60C2EF88" Ref="U1302"  Part="2" 
 F 0 "U1302" H 3400 3350 50  0000 C CNN
 F 1 "74HC04" H 3100 3250 50  0000 C CNN
-F 2 "" H 3150 3250 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 3150 3250 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 3150 3250 50  0001 C CNN
 	2    3150 3250
 	1    0    0    -1  
@@ -1113,7 +1113,7 @@ AR Path="/60832DB9/60C2EF8E" Ref="U?"  Part="1"
 AR Path="/60832DB9/60BC5CB5/60C2EF8E" Ref="U1302"  Part="1" 
 F 0 "U1302" H 3400 3000 50  0000 C CNN
 F 1 "74HC04" H 3100 2900 50  0000 C CNN
-F 2 "" H 3150 2900 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 3150 2900 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 3150 2900 50  0001 C CNN
 	1    3150 2900
 	1    0    0    -1  
@@ -1126,7 +1126,7 @@ AR Path="/60832DB9/60C2EF94" Ref="U?"  Part="6"
 AR Path="/60832DB9/60BC5CB5/60C2EF94" Ref="U1301"  Part="6" 
 F 0 "U1301" H 3400 2650 50  0000 C CNN
 F 1 "74HC04" H 3100 2550 50  0000 C CNN
-F 2 "" H 3150 2550 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 3150 2550 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 3150 2550 50  0001 C CNN
 	6    3150 2550
 	1    0    0    -1  
@@ -1139,7 +1139,7 @@ AR Path="/60832DB9/60C2EF9A" Ref="U?"  Part="5"
 AR Path="/60832DB9/60BC5CB5/60C2EF9A" Ref="U1301"  Part="5" 
 F 0 "U1301" H 3400 2300 50  0000 C CNN
 F 1 "74HC04" H 3100 2200 50  0000 C CNN
-F 2 "" H 3150 2200 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 3150 2200 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 3150 2200 50  0001 C CNN
 	5    3150 2200
 	1    0    0    -1  
@@ -1166,7 +1166,7 @@ U 7 1 60CD4AAA
 P 2650 6950
 F 0 "U1305" H 2550 7000 50  0000 L CNN
 F 1 "74HC04" H 2500 6900 50  0000 L CNN
-F 2 "" H 2650 6950 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 2650 6950 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 2650 6950 50  0001 C CNN
 	7    2650 6950
 	1    0    0    -1  
@@ -1177,7 +1177,7 @@ U 7 1 60CD4AB0
 P 3100 6950
 F 0 "U1306" H 3000 7000 50  0000 L CNN
 F 1 "74HC04" H 2950 6900 50  0000 L CNN
-F 2 "" H 3100 6950 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 3100 6950 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 3100 6950 50  0001 C CNN
 	7    3100 6950
 	1    0    0    -1  
@@ -1188,7 +1188,7 @@ U 7 1 60CD4AB6
 P 3550 6950
 F 0 "U1307" H 3450 6950 50  0000 L CNN
 F 1 "74HC04" H 3400 6850 50  0000 L CNN
-F 2 "" H 3550 6950 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 3550 6950 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 3550 6950 50  0001 C CNN
 	7    3550 6950
 	1    0    0    -1  
@@ -1199,7 +1199,7 @@ U 7 1 60CD4ABC
 P 4000 6950
 F 0 "U1308" H 3900 7000 50  0000 L CNN
 F 1 "74HC04" H 3850 6900 50  0000 L CNN
-F 2 "" H 4000 6950 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 4000 6950 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 4000 6950 50  0001 C CNN
 	7    4000 6950
 	1    0    0    -1  
@@ -1210,7 +1210,7 @@ U 7 1 60CD4AC2
 P 850 6950
 F 0 "U1301" H 750 7000 50  0000 L CNN
 F 1 "74HC04" H 700 6900 50  0000 L CNN
-F 2 "" H 850 6950 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 850 6950 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 850 6950 50  0001 C CNN
 	7    850  6950
 	1    0    0    -1  
@@ -1221,7 +1221,7 @@ U 7 1 60CD4AC8
 P 1300 6950
 F 0 "U1302" H 1200 7000 50  0000 L CNN
 F 1 "74HC04" H 1150 6900 50  0000 L CNN
-F 2 "" H 1300 6950 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 1300 6950 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 1300 6950 50  0001 C CNN
 	7    1300 6950
 	1    0    0    -1  
@@ -1232,7 +1232,7 @@ U 7 1 60CD4ACE
 P 1750 6950
 F 0 "U1303" H 1650 7000 50  0000 L CNN
 F 1 "74HC04" H 1600 6900 50  0000 L CNN
-F 2 "" H 1750 6950 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 1750 6950 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 1750 6950 50  0001 C CNN
 	7    1750 6950
 	1    0    0    -1  
@@ -1243,7 +1243,7 @@ U 7 1 60CD4AD4
 P 2200 6950
 F 0 "U1304" H 2100 7000 50  0000 L CNN
 F 1 "74HC04" H 2050 6900 50  0000 L CNN
-F 2 "" H 2200 6950 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 2200 6950 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 2200 6950 50  0001 C CNN
 	7    2200 6950
 	1    0    0    -1  
@@ -1263,7 +1263,7 @@ U 1 1 60CD4ADF
 P 6200 7000
 F 0 "C1307" H 6250 7100 50  0000 L CNN
 F 1 "100nF" H 6200 6900 50  0000 L CNN
-F 2 "" H 6238 6850 50  0001 C CNN
+F 2 "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm" H 6238 6850 50  0001 C CNN
 F 3 "~" H 6200 7000 50  0001 C CNN
 	1    6200 7000
 	1    0    0    -1  
@@ -1363,7 +1363,7 @@ U 1 1 60CD4B19
 P 6450 7000
 F 0 "C1308" H 6500 7100 50  0000 L CNN
 F 1 "100nF" H 6450 6900 50  0000 L CNN
-F 2 "" H 6488 6850 50  0001 C CNN
+F 2 "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm" H 6488 6850 50  0001 C CNN
 F 3 "~" H 6450 7000 50  0001 C CNN
 	1    6450 7000
 	1    0    0    -1  
@@ -1374,7 +1374,7 @@ U 1 1 60CD4B1F
 P 5950 7000
 F 0 "C1306" H 6000 7100 50  0000 L CNN
 F 1 "100nF" H 5950 6900 50  0000 L CNN
-F 2 "" H 5988 6850 50  0001 C CNN
+F 2 "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm" H 5988 6850 50  0001 C CNN
 F 3 "~" H 5950 7000 50  0001 C CNN
 	1    5950 7000
 	1    0    0    -1  
@@ -1385,7 +1385,7 @@ U 1 1 60CD4B25
 P 5700 7000
 F 0 "C1305" H 5750 7100 50  0000 L CNN
 F 1 "100nF" H 5700 6900 50  0000 L CNN
-F 2 "" H 5738 6850 50  0001 C CNN
+F 2 "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm" H 5738 6850 50  0001 C CNN
 F 3 "~" H 5700 7000 50  0001 C CNN
 	1    5700 7000
 	1    0    0    -1  
@@ -1396,7 +1396,7 @@ U 1 1 60CD4B2B
 P 5450 7000
 F 0 "C1304" H 5500 7100 50  0000 L CNN
 F 1 "100nF" H 5450 6900 50  0000 L CNN
-F 2 "" H 5488 6850 50  0001 C CNN
+F 2 "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm" H 5488 6850 50  0001 C CNN
 F 3 "~" H 5450 7000 50  0001 C CNN
 	1    5450 7000
 	1    0    0    -1  
@@ -1407,7 +1407,7 @@ U 1 1 60CD4B31
 P 5200 7000
 F 0 "C1303" H 5250 7100 50  0000 L CNN
 F 1 "100nF" H 5200 6900 50  0000 L CNN
-F 2 "" H 5238 6850 50  0001 C CNN
+F 2 "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm" H 5238 6850 50  0001 C CNN
 F 3 "~" H 5200 7000 50  0001 C CNN
 	1    5200 7000
 	1    0    0    -1  
@@ -1418,7 +1418,7 @@ U 1 1 60CD4B37
 P 4950 7000
 F 0 "C1302" H 5000 7100 50  0000 L CNN
 F 1 "100nF" H 4950 6900 50  0000 L CNN
-F 2 "" H 4988 6850 50  0001 C CNN
+F 2 "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm" H 4988 6850 50  0001 C CNN
 F 3 "~" H 4950 7000 50  0001 C CNN
 	1    4950 7000
 	1    0    0    -1  
@@ -1429,7 +1429,7 @@ U 1 1 60CD4B3D
 P 4700 7000
 F 0 "C1301" H 4750 7100 50  0000 L CNN
 F 1 "100nF" H 4700 6900 50  0000 L CNN
-F 2 "" H 4738 6850 50  0001 C CNN
+F 2 "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm" H 4738 6850 50  0001 C CNN
 F 3 "~" H 4700 7000 50  0001 C CNN
 	1    4700 7000
 	1    0    0    -1  

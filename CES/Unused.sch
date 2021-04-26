@@ -21,7 +21,7 @@ AR Path="/60832DB9/6125152F/61014B52" Ref="U?"  Part="3"
 AR Path="/610111E8/61014B52" Ref="U1501"  Part="3" 
 F 0 "U1501" H 1500 1475 50  0000 C CNN
 F 1 "74HC00" H 1500 1384 50  0000 C CNN
-F 2 "" H 1500 1150 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 1500 1150 50  0001 C CNN
 F 3 "http://www.ti.com/lit/gpn/sn74hc00" H 1500 1150 50  0001 C CNN
 	3    1500 1150
 	1    0    0    -1  
@@ -34,7 +34,7 @@ AR Path="/60832DB9/6125152F/61014B58" Ref="U?"  Part="4"
 AR Path="/610111E8/61014B58" Ref="U1501"  Part="4" 
 F 0 "U1501" H 1500 2075 50  0000 C CNN
 F 1 "74HC00" H 1500 1984 50  0000 C CNN
-F 2 "" H 1500 1750 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 1500 1750 50  0001 C CNN
 F 3 "http://www.ti.com/lit/gpn/sn74hc00" H 1500 1750 50  0001 C CNN
 	4    1500 1750
 	1    0    0    -1  
@@ -79,7 +79,7 @@ AR Path="/611BF25E/6101E66F" Ref="U?"  Part="3"
 AR Path="/610111E8/6101E66F" Ref="U1601"  Part="3" 
 F 0 "U1601" H 1500 3117 50  0000 C CNN
 F 1 "74HC04" H 1500 3026 50  0000 C CNN
-F 2 "" H 1500 2800 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 1500 2800 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 1500 2800 50  0001 C CNN
 	3    1500 2800
 	1    0    0    -1  
@@ -92,7 +92,7 @@ AR Path="/611BF25E/6101E675" Ref="U?"  Part="5"
 AR Path="/610111E8/6101E675" Ref="U1601"  Part="5" 
 F 0 "U1601" H 1500 4017 50  0000 C CNN
 F 1 "74HC04" H 1500 3926 50  0000 C CNN
-F 2 "" H 1500 3700 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 1500 3700 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 1500 3700 50  0001 C CNN
 	5    1500 3700
 	1    0    0    -1  
@@ -105,7 +105,7 @@ AR Path="/611BF25E/6101E67B" Ref="U?"  Part="6"
 AR Path="/610111E8/6101E67B" Ref="U1601"  Part="6" 
 F 0 "U1601" H 1500 4467 50  0000 C CNN
 F 1 "74HC04" H 1500 4376 50  0000 C CNN
-F 2 "" H 1500 4150 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 1500 4150 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 1500 4150 50  0001 C CNN
 	6    1500 4150
 	1    0    0    -1  
@@ -122,7 +122,7 @@ AR Path="/611BF25E/6101E685" Ref="U?"  Part="4"
 AR Path="/610111E8/6101E685" Ref="U1601"  Part="4" 
 F 0 "U1601" H 1500 3567 50  0000 C CNN
 F 1 "74HC04" H 1500 3476 50  0000 C CNN
-F 2 "" H 1500 3250 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 1500 3250 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 1500 3250 50  0001 C CNN
 	4    1500 3250
 	1    0    0    -1  
@@ -287,7 +287,7 @@ AR Path="/60832C87/61038A46" Ref="U?"  Part="2"
 AR Path="/610111E8/61038A46" Ref="U1001"  Part="2" 
 F 0 "U1001" H 3700 1525 50  0000 C CNN
 F 1 "74HC02" H 3700 1434 50  0000 C CNN
-F 2 "" H 3700 1200 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 3700 1200 50  0001 C CNN
 F 3 "http://www.ti.com/lit/gpn/sn74hc02" H 3700 1200 50  0001 C CNN
 	2    3700 1200
 	1    0    0    -1  
@@ -300,7 +300,7 @@ AR Path="/60832C87/61038A4C" Ref="U?"  Part="4"
 AR Path="/610111E8/61038A4C" Ref="U1004"  Part="4" 
 F 0 "U1004" H 3700 3225 50  0000 C CNN
 F 1 "74HC08" H 3700 3134 50  0000 C CNN
-F 2 "" H 3700 2900 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 3700 2900 50  0001 C CNN
 F 3 "http://www.ti.com/lit/gpn/sn74HC08" H 3700 2900 50  0001 C CNN
 	4    3700 2900
 	1    0    0    -1  
@@ -313,7 +313,7 @@ AR Path="/60832C87/61038A52" Ref="U?"  Part="3"
 AR Path="/610111E8/61038A52" Ref="U1004"  Part="3" 
 F 0 "U1004" H 3700 2675 50  0000 C CNN
 F 1 "74HC08" H 3700 2584 50  0000 C CNN
-F 2 "" H 3700 2350 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 3700 2350 50  0001 C CNN
 F 3 "http://www.ti.com/lit/gpn/sn74HC08" H 3700 2350 50  0001 C CNN
 	3    3700 2350
 	1    0    0    -1  
@@ -326,7 +326,7 @@ AR Path="/60832C87/61038A58" Ref="U?"  Part="2"
 AR Path="/610111E8/61038A58" Ref="U1004"  Part="2" 
 F 0 "U1004" H 3700 2075 50  0000 C CNN
 F 1 "74HC08" H 3700 1984 50  0000 C CNN
-F 2 "" H 3700 1750 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 3700 1750 50  0001 C CNN
 F 3 "http://www.ti.com/lit/gpn/sn74HC08" H 3700 1750 50  0001 C CNN
 	2    3700 1750
 	1    0    0    -1  
@@ -339,7 +339,7 @@ AR Path="/60832C87/61038A5E" Ref="U?"  Part="3"
 AR Path="/610111E8/61038A5E" Ref="U1003"  Part="3" 
 F 0 "U1003" H 3700 3775 50  0000 C CNN
 F 1 "74HC10" H 3700 3684 50  0000 C CNN
-F 2 "" H 3700 3450 50  0001 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 3700 3450 50  0001 C CNN
 F 3 "http://www.ti.com/lit/gpn/sn74HC10" H 3700 3450 50  0001 C CNN
 	3    3700 3450
 	1    0    0    -1  
