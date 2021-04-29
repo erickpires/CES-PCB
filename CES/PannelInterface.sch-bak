@@ -31,7 +31,7 @@ U 1 1 6124E597
 P 9300 1800
 F 0 "J1201" H 9272 1682 50  0000 R CNN
 F 1 "PannelPowerConnector" H 9272 1773 50  0000 R CNN
-F 2 "" H 9300 1800 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 9300 1800 50  0001 C CNN
 F 3 "~" H 9300 1800 50  0001 C CNN
 	1    9300 1800
 	-1   0    0    1   

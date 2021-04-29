@@ -18,7 +18,7 @@ L Connector:Conn_01x16_Female J1701
 U 1 1 60990C84
 P 3200 1700
 F 0 "J1701" H 3250 800 50  0000 R CNN
-F 1 "AddressBusConnector" H 3600 2600 50  0000 R CNN
+F 1 "Conn_01x16" H 3600 2600 50  0000 R CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Vertical" H 3200 1700 50  0001 C CNN
 F 3 "~" H 3200 1700 50  0001 C CNN
 	1    3200 1700
@@ -29,7 +29,7 @@ L Connector:Conn_01x16_Female J1702
 U 1 1 60994D8B
 P 3200 3900
 F 0 "J1702" H 3250 3000 50  0000 R CNN
-F 1 "DataBusConnector" H 3600 4800 50  0000 R CNN
+F 1 "Conn_01x16" H 3600 4800 50  0000 R CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Vertical" H 3200 3900 50  0001 C CNN
 F 3 "~" H 3200 3900 50  0001 C CNN
 	1    3200 3900
@@ -40,7 +40,7 @@ L Connector:Conn_01x16_Female J1703
 U 1 1 609975FA
 P 3200 6050
 F 0 "J1703" H 3200 5150 50  0000 R CNN
-F 1 "RTConnector" H 3600 6950 50  0000 R CNN
+F 1 "Conn_01x16" H 3600 6950 50  0000 R CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Vertical" H 3200 6050 50  0001 C CNN
 F 3 "~" H 3200 6050 50  0001 C CNN
 	1    3200 6050
@@ -263,7 +263,7 @@ L Connector:Conn_01x07_Female J1704
 U 1 1 609B0E5F
 P 7700 1300
 F 0 "J1704" H 7650 900 50  0000 L CNN
-F 1 "MemSignalsConnector" H 7300 1750 50  0000 L CNN
+F 1 "Conn_01x07" H 7300 1750 50  0000 L CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical" H 7700 1300 50  0001 C CNN
 F 3 "~" H 7700 1300 50  0001 C CNN
 	1    7700 1300

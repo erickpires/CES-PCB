@@ -90,4 +90,8 @@ K TTL Nand4
 F http://www.ti.com/lit/gpn/sn74LS40
 $ENDCMP
 #
+$CMP IS61C256
+F https://www.issi.com/WW/pdf/61C256AH.pdf
+$ENDCMP
+#
 #End Doc Library
