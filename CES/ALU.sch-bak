@@ -16,23 +16,23 @@ $EndDescr
 $Comp
 L 74xx:74HC02 U201
 U 1 1 61744753
-P 1300 700
-F 0 "U201" H 1450 850 50  0000 C CNN
-F 1 "74HC02" H 1300 700 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm" H 1300 700 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74hc02" H 1300 700 50  0001 C CNN
-	1    1300 700 
+P 1300 1100
+F 0 "U201" H 1450 1250 50  0000 C CNN
+F 1 "74HC02" H 1300 1100 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 1300 1100 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74hc02" H 1300 1100 50  0001 C CNN
+	1    1300 1100
 	1    0    0    -1  
 $EndComp
 $Comp
 L 74xx:74HC02 U201
 U 2 1 61746BE6
-P 1300 1100
-F 0 "U201" H 1300 1300 50  0000 C CNN
-F 1 "74HC02" H 1300 1100 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm" H 1300 1100 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74hc02" H 1300 1100 50  0001 C CNN
-	2    1300 1100
+P 1300 700
+F 0 "U201" H 1300 900 50  0000 C CNN
+F 1 "74HC02" H 1300 700 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 1300 700 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74hc02" H 1300 700 50  0001 C CNN
+	2    1300 700 
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -71,23 +71,23 @@ $EndComp
 $Comp
 L 74xx:74HC02 U202
 U 1 1 61758CF1
-P 1300 2600
-F 0 "U202" H 1300 2800 50  0000 C CNN
-F 1 "74HC02" H 1300 2600 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm" H 1300 2600 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74hc02" H 1300 2600 50  0001 C CNN
-	1    1300 2600
-	1    0    0    -1  
-$EndComp
-$Comp
-L 74xx:74HC02 U202
-U 2 1 61758CF7
 P 1300 3000
 F 0 "U202" H 1300 3200 50  0000 C CNN
 F 1 "74HC02" H 1300 3000 50  0000 C CNN
 F 2 "Package_DIP:DIP-14_W7.62mm" H 1300 3000 50  0001 C CNN
 F 3 "http://www.ti.com/lit/gpn/sn74hc02" H 1300 3000 50  0001 C CNN
-	2    1300 3000
+	1    1300 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74xx:74HC02 U202
+U 2 1 61758CF7
+P 1300 2600
+F 0 "U202" H 1300 2800 50  0000 C CNN
+F 1 "74HC02" H 1300 2600 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 1300 2600 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74hc02" H 1300 2600 50  0001 C CNN
+	2    1300 2600
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -126,23 +126,23 @@ $EndComp
 $Comp
 L 74xx:74HC02 U203
 U 1 1 6175D579
-P 1300 4500
-F 0 "U203" H 1300 4700 50  0000 C CNN
-F 1 "74HC02" H 1300 4500 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm" H 1300 4500 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74hc02" H 1300 4500 50  0001 C CNN
-	1    1300 4500
-	1    0    0    -1  
-$EndComp
-$Comp
-L 74xx:74HC02 U203
-U 2 1 6175D57F
 P 1300 4900
 F 0 "U203" H 1300 5100 50  0000 C CNN
 F 1 "74HC02" H 1300 4900 50  0000 C CNN
 F 2 "Package_DIP:DIP-14_W7.62mm" H 1300 4900 50  0001 C CNN
 F 3 "http://www.ti.com/lit/gpn/sn74hc02" H 1300 4900 50  0001 C CNN
-	2    1300 4900
+	1    1300 4900
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74xx:74HC02 U203
+U 2 1 6175D57F
+P 1300 4500
+F 0 "U203" H 1300 4700 50  0000 C CNN
+F 1 "74HC02" H 1300 4500 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 1300 4500 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74hc02" H 1300 4500 50  0001 C CNN
+	2    1300 4500
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -462,19 +462,19 @@ Wire Wire Line
 Wire Wire Line
 	1850 3500 2950 3500
 Text GLabel 2300 3000 0    50   Input ~ 0
-ESA0
+ESA4
 Wire Wire Line
 	2300 3000 2950 3000
 Text GLabel 2300 3100 0    50   Input ~ 0
-ESA1
+ESA5
 Wire Wire Line
 	2300 3100 2950 3100
 Text GLabel 2300 3200 0    50   Input ~ 0
-ESA2
+ESA6
 Wire Wire Line
 	2300 3200 2950 3200
 Text GLabel 2300 3300 0    50   Input ~ 0
-ESA3
+ESA7
 Wire Wire Line
 	2300 3300 2950 3300
 Wire Wire Line
@@ -494,19 +494,19 @@ Wire Wire Line
 Wire Wire Line
 	1850 5400 2950 5400
 Text GLabel 2300 4900 0    50   Input ~ 0
-ESA0
+ESA8
 Wire Wire Line
 	2300 4900 2950 4900
 Text GLabel 2300 5000 0    50   Input ~ 0
-ESA1
+ESA9
 Wire Wire Line
 	2300 5000 2950 5000
 Text GLabel 2300 5100 0    50   Input ~ 0
-ESA2
+ESA10
 Wire Wire Line
 	2300 5100 2950 5100
 Text GLabel 2300 5200 0    50   Input ~ 0
-ESA3
+ESA11
 Wire Wire Line
 	2300 5200 2950 5200
 Wire Wire Line
@@ -526,19 +526,19 @@ Wire Wire Line
 Wire Wire Line
 	1850 7350 2950 7350
 Text GLabel 2300 6850 0    50   Input ~ 0
-ESA0
+ESA12
 Wire Wire Line
 	2300 6850 2950 6850
 Text GLabel 2300 6950 0    50   Input ~ 0
-ESA1
+ESA13
 Wire Wire Line
 	2300 6950 2950 6950
 Text GLabel 2300 7050 0    50   Input ~ 0
-ESA2
+ESA14
 Wire Wire Line
 	2300 7050 2950 7050
 Text GLabel 2300 7150 0    50   Input ~ 0
-ESA3
+ESA15
 Wire Wire Line
 	2300 7150 2950 7150
 $Comp
@@ -566,23 +566,23 @@ $EndComp
 $Comp
 L 74xx:74HC02 U204
 U 2 1 617636E6
-P 1300 6850
-F 0 "U204" H 1300 7050 50  0000 C CNN
-F 1 "74HC02" H 1300 6850 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm" H 1300 6850 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74hc02" H 1300 6850 50  0001 C CNN
-	2    1300 6850
-	1    0    0    -1  
-$EndComp
-$Comp
-L 74xx:74HC02 U204
-U 1 1 617636E0
 P 1300 6450
 F 0 "U204" H 1300 6650 50  0000 C CNN
 F 1 "74HC02" H 1300 6450 50  0000 C CNN
 F 2 "Package_DIP:DIP-14_W7.62mm" H 1300 6450 50  0001 C CNN
 F 3 "http://www.ti.com/lit/gpn/sn74hc02" H 1300 6450 50  0001 C CNN
-	1    1300 6450
+	2    1300 6450
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74xx:74HC02 U204
+U 1 1 617636E0
+P 1300 6850
+F 0 "U204" H 1300 7050 50  0000 C CNN
+F 1 "74HC02" H 1300 6850 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 1300 6850 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74hc02" H 1300 6850 50  0001 C CNN
+	1    1300 6850
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
@@ -718,7 +718,7 @@ SRT5
 Wire Wire Line
 	800  2900 1000 2900
 Text GLabel 800  3300 0    50   Input ~ 0
-SRT6
+SS6
 Wire Wire Line
 	800  3300 1000 3300
 Text GLabel 800  3700 0    50   Input ~ 0

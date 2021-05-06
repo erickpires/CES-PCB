@@ -462,19 +462,19 @@ Wire Wire Line
 Wire Wire Line
 	1850 3500 2950 3500
 Text GLabel 2300 3000 0    50   Input ~ 0
-ESA0
+ESA4
 Wire Wire Line
 	2300 3000 2950 3000
 Text GLabel 2300 3100 0    50   Input ~ 0
-ESA1
+ESA5
 Wire Wire Line
 	2300 3100 2950 3100
 Text GLabel 2300 3200 0    50   Input ~ 0
-ESA2
+ESA6
 Wire Wire Line
 	2300 3200 2950 3200
 Text GLabel 2300 3300 0    50   Input ~ 0
-ESA3
+ESA7
 Wire Wire Line
 	2300 3300 2950 3300
 Wire Wire Line
@@ -494,19 +494,19 @@ Wire Wire Line
 Wire Wire Line
 	1850 5400 2950 5400
 Text GLabel 2300 4900 0    50   Input ~ 0
-ESA0
+ESA8
 Wire Wire Line
 	2300 4900 2950 4900
 Text GLabel 2300 5000 0    50   Input ~ 0
-ESA1
+ESA9
 Wire Wire Line
 	2300 5000 2950 5000
 Text GLabel 2300 5100 0    50   Input ~ 0
-ESA2
+ESA10
 Wire Wire Line
 	2300 5100 2950 5100
 Text GLabel 2300 5200 0    50   Input ~ 0
-ESA3
+ESA11
 Wire Wire Line
 	2300 5200 2950 5200
 Wire Wire Line
@@ -526,19 +526,19 @@ Wire Wire Line
 Wire Wire Line
 	1850 7350 2950 7350
 Text GLabel 2300 6850 0    50   Input ~ 0
-ESA0
+ESA12
 Wire Wire Line
 	2300 6850 2950 6850
 Text GLabel 2300 6950 0    50   Input ~ 0
-ESA1
+ESA13
 Wire Wire Line
 	2300 6950 2950 6950
 Text GLabel 2300 7050 0    50   Input ~ 0
-ESA2
+ESA14
 Wire Wire Line
 	2300 7050 2950 7050
 Text GLabel 2300 7150 0    50   Input ~ 0
-ESA3
+ESA15
 Wire Wire Line
 	2300 7150 2950 7150
 $Comp
