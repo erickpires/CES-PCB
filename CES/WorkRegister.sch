@@ -411,8 +411,6 @@ Connection ~ 4200 3650
 Wire Wire Line
 	4100 3550 4600 3550
 Wire Wire Line
-	4600 3550 4600 3450
-Wire Wire Line
 	4600 3450 4000 3450
 Connection ~ 4100 3550
 Connection ~ 4000 3450
